@@ -12,14 +12,16 @@
     display: none;
 }
 
+
+
+/* MENU */
+
 .menu__container {
     position: fixed;
     bottom: 0%;
     height: 74px;
     width: 100%;
 }
-
-/* MENU */
 
 .menu__lista {
     display: flex;
@@ -28,6 +30,10 @@
 
 .menu__lista li {
     align-self: center;
+}
+
+.menu__itens {
+    display: flex;
 }
 
 .menu__lista:nth-child(2),
