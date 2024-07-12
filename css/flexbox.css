@@ -55,12 +55,15 @@
 
 /* VIDEO */
 
+.videos__container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
 .videos__item {
     height: 303px;
     width: 280px;
 }
-
-
 
 /* RODAPÉ */
 
