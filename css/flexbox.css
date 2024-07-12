@@ -97,6 +97,7 @@
 @media (min-width: 1440px) {
   .menu__container {
     width: 239px;
+    overflow: scroll;
   }
 
   .menu__lista:nth-child(2),
@@ -106,6 +107,11 @@
   }
 
   .menu__lista {
-    height: auto;    
+    height: auto; 
+    padding: 20px 17px 20px 15px;
+  }
+
+  .menu__itens {
+    flex-direction: row;
   }
 }
