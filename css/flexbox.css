@@ -10,10 +10,8 @@
     display: none;
 }
 
-@media screen (min-width: 834px) {
-
-    .cabecalho__pesquisar__item{
+@media (min-width: 834px) {
+    .cabecalho__pesquisar__item {
         display: block;
     }
-    
 }
