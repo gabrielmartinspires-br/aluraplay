@@ -79,10 +79,7 @@ body {
 }
 
 .cabecalho__notificacoes {
-    background-image: url(../img/cabecalho/notifications.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    padding: 13px 30px 13px 13px;
+    
 }
 
 .cabecalho__avatar {
