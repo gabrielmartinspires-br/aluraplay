@@ -12,6 +12,7 @@
 body {
     font-family: Roboto, Arial, Helvetica, sans-serif;
     background-color: var(--azul-claro);
+    position: relative;
     
 }
 
