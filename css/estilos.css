@@ -35,7 +35,7 @@ body {
     background-image: url(../img/cabecalho/Logo.png);
     background-repeat: no-repeat;
     padding: 15px 65px;
-    
+    cursor: pointer;
 }
 
 .pesquisar__input {
