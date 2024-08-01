@@ -55,7 +55,7 @@ body {
     background-color: #F9F9F9;
     border-left: none;
     padding: 8px 18px 5px;
-    
+    cursor: pointer;
 }
 
 .cabecalho__audio {
