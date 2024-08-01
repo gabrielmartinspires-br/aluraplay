@@ -48,7 +48,9 @@ body {
 }
 
 .pesquisar__label {
+    background-image: url(../img/cabecalho/search.png);
     
+}
 
 .cabecalho__audio {
     background-image: url(../img/cabecalho/mic.png);
