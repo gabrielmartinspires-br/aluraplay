@@ -50,6 +50,7 @@ body {
 .pesquisar__label {
     background-image: url(../img/cabecalho/search.png);
     background-repeat: no-repeat;
+    background-position: center;
     
 }
 
