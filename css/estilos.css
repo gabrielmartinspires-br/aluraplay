@@ -68,14 +68,11 @@ body {
     background-image: url(../img/cabecalho/video_call.png);
     background-repeat: no-repeat;
     background-position: center;
-    
+    padding: 20px;
 }
 
 .cabecalho__apps {
-    background-image: url(../img/cabecalho/apps.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    padding: 13px 30px 13px 13px;
+    
 }
 
 .cabecalho__notificacoes {
