@@ -48,15 +48,7 @@ body {
 }
 
 .pesquisar__label {
-    background-image: url(../img/cabecalho/search.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    border: 1px solid rgb(211, 211, 211);
-    background-color: #F9F9F9;
-    border-left: none;
-    padding: 8px 18px 5px;
-    cursor: pointer;
-}
+    
 
 .cabecalho__audio {
     background-image: url(../img/cabecalho/mic.png);
