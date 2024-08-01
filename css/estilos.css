@@ -73,6 +73,7 @@ body {
 
 .cabecalho__apps {
     background-image: url(../img/cabecalho/apps.png);
+    background-repeat: no-repeat;
     
 }
 
