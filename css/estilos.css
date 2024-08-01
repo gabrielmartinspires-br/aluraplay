@@ -80,8 +80,8 @@ body {
 
 .cabecalho__notificacoes {
     background-image: url(../img/cabecalho/notifications.png);
+    background-repeat: no-repeat;
     
-}
 
 .cabecalho__avatar {
     background-image: url(../img/cabecalho/Avatar.png);
